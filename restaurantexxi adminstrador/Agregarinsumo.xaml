@@ -1,0 +1,68 @@
+﻿<Controls:MetroWindow x:Name="Win_crear_insumo" x:Class="AplicacionBar.pruebas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AplicacionBar"
+        mc:Ignorable="d"
+        Title="Ingresar Insumo" Height="664" Width="800" Loaded="Window_Loaded" WindowStartupLocation="CenterOwner" WindowStyle="None" ResizeMode="NoResize">
+    <Grid x:Name="txt_habilitado_bebi" Margin="0,0,2,-2">
+        <Label x:Name="lb_nombreusuario" Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="230" Height="27"/>
+
+
+        <RadioButton x:Name="rbt_alimentos" Content="Alimentos" HorizontalAlignment="Left" Margin="307,81,0,0" VerticalAlignment="Top" GroupName="filtro" RenderTransformOrigin="1.636,-1.4" Width="119" Checked="rbt_alimentos_Checked" Height="33" FontSize="16"/>
+        <RadioButton x:Name="rbt_bebestibles" Content="Bebestibles" HorizontalAlignment="Left" Margin="560,81,0,0" VerticalAlignment="Top" Checked="rbt_bebestibles_Checked" GroupName="filtro" RenderTransformOrigin="0.367,-0.6" Width="127" Height="33" FontSize="16"/>
+        <Label x:Name="lbl_insumo_alimento" Content="Nombre Insumo" HorizontalAlignment="Left" Margin="193,120,0,0" VerticalAlignment="Top" Width="106" Height="30" Visibility="Hidden"/>
+        <Label x:Name="lbl_stock_alimento" Content="Stock" HorizontalAlignment="Left" Margin="245,165,0,0" VerticalAlignment="Top" Width="46" Height="29" Visibility="Hidden"/>
+        <Label x:Name="lbl_insumo_bebi" Content="Nombre Insumo" HorizontalAlignment="Left" Margin="193,119,0,0" VerticalAlignment="Top" Width="106" Visibility="Hidden"/>
+        <Label x:Name="lbl_stock_coci_alimento" Content="Stock Cocina" HorizontalAlignment="Left" Margin="213,219,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.526,0.231" Width="86" Height="29" Visibility="Hidden"/>
+        <Label x:Name="lbl_stock_bebi" Content="Stock" HorizontalAlignment="Left" Margin="245,165,0,0" VerticalAlignment="Top" Width="43" Visibility="Hidden"/>
+        <Label x:Name="lbl_stock_coci_bebi" Content="Stock Bar" HorizontalAlignment="Left" Margin="224,219,0,0" VerticalAlignment="Top" Width="64" Visibility="Hidden"/>
+        <Label x:Name="lbl_alimento" Content="Proveedor" HorizontalAlignment="Left" Margin="219,276,0,0" VerticalAlignment="Top" Width="72" Height="30" Visibility="Hidden"/>
+        <Label x:Name="lbl_marca_bebi" Content="Marca" HorizontalAlignment="Left" Margin="236,276,0,0" VerticalAlignment="Top" Width="52" Visibility="Hidden"/>
+        <TextBox x:Name="txt_stock_coci_bebi" HorizontalAlignment="Left" Height="21" Margin="304,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" PreviewTextInput="txt_stock_coci_bebi_PreviewTextInput" GotFocus="txt_stock_coci_bebi_GotFocus" Visibility="Hidden"/>
+        <TextBox x:Name="txt_stock_alimento" HorizontalAlignment="Left" Height="22" Margin="304,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" PreviewTextInput="txt_stock_alimento_PreviewTextInput" GotFocus="txt_stock_alimento_GotFocus" Visibility="Hidden"/>
+        <TextBox x:Name="txt_stock_coci_alimento" HorizontalAlignment="Left" Height="21" Margin="304,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" PreviewTextInput="txt_stock_coci_alimento_PreviewTextInput" GotFocus="txt_stock_coci_alimento_GotFocus" Visibility="Hidden"/>
+        <TextBox x:Name="txt_insumo_bebi" HorizontalAlignment="Left" Height="22" Margin="304,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" PreviewTextInput="txt_insumo_bebi_PreviewTextInput" GotFocus="txt_insumo_bebi_GotFocus" Visibility="Hidden"/>
+        <TextBox x:Name="txt_stock_bebi" HorizontalAlignment="Left" Height="22" Margin="304,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" PreviewTextInput="txt_stock_bebi_PreviewTextInput" GotFocus="txt_stock_bebi_GotFocus" Visibility="Hidden"/>
+        <TextBox x:Name="txt_marca_bebi" HorizontalAlignment="Left" Height="21" Margin="304,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" PreviewTextInput="txt_marca_bebi_PreviewTextInput" GotFocus="txt_marca_bebi_GotFocus" Visibility="Hidden"/>
+        <TextBox x:Name="txt_insumo_alimento" HorizontalAlignment="Left" Height="21" Margin="304,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" PreviewTextInput="txt_insumo_alimento_PreviewTextInput" GotFocus="txt_insumo_alimento_GotFocus" Visibility="Hidden"/>
+        <Button x:Name="btn_crear" Content="Ingresar Insumo" HorizontalAlignment="Left" Margin="345,543,0,0" VerticalAlignment="Top" Width="125" Height="35" Click="btn_crear_Click" RenderTransformOrigin="0.523,0.92" IsEnabled="False"/>
+        <Button x:Name="btn_volver" Content="Volver" HorizontalAlignment="Left" Margin="655,543,0,0" VerticalAlignment="Top" Width="125" Height="35" Click="Btn_volver_Click"/>
+        <Label x:Name="lbl_precio_bebi" Content="Precio" HorizontalAlignment="Left" Margin="236,324,0,0" VerticalAlignment="Top" Width="52" Visibility="Hidden"/>
+        <TextBox x:Name="txt_precio_bebi" HorizontalAlignment="Left" Height="21" Margin="304,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" PreviewTextInput="txt_precio_bebi_PreviewTextInput" GotFocus="txt_precio_bebi_GotFocus" Visibility="Hidden"/>
+        <Label x:Name="lbl_imagen_bebi" Content="Imagen" HorizontalAlignment="Left" Margin="236,379,0,0" VerticalAlignment="Top" Width="52" Visibility="Hidden"/>
+        <Label x:Name="lbl_habili_bebi" Content="Habilitado" HorizontalAlignment="Left" Margin="224,422,0,0" VerticalAlignment="Top" Width="64" Visibility="Hidden"/>
+        <Label x:Name="lbl_conpre_bebi" Content="Con Preparacion" HorizontalAlignment="Left" Margin="194,479,0,0" VerticalAlignment="Top" Width="97" Visibility="Hidden"/>
+        <ComboBox x:Name="txt_habili_bebi" HorizontalAlignment="Left" Margin="304,427,0,0" VerticalAlignment="Top" Width="132" Height="21" GotFocus="txt_habili_bebi_GotFocus" Visibility="Hidden">
+            <ComboBoxItem x:Name="si_habilitado" Content="Si" HorizontalAlignment="Left" Width="130"/>
+            <ComboBoxItem x:Name="no_habilitado" Content="No" HorizontalAlignment="Left" Width="130"/>
+        </ComboBox>
+        <ComboBox x:Name="txt_conpre_bebi" HorizontalAlignment="Left" Margin="304,479,0,0" VerticalAlignment="Top" Width="132" RenderTransformOrigin="-0.515,0.455" GotFocus="txt_conpre_bebi_GotFocus" Visibility="Hidden">
+            <ComboBoxItem x:Name="si_con" Content="Si" HorizontalAlignment="Left" Width="130"/>
+            <ComboBoxItem x:Name="no_con" Content="No" HorizontalAlignment="Left" Width="130"/>
+        </ComboBox>
+        <Button x:Name="btn_imagen" Content="Imagen .jpeg .png. jpeg" HorizontalAlignment="Left" Margin="304,382,0,0" VerticalAlignment="Top" Width="205" Click="btn_imagen_Click" Height="19" Visibility="Hidden"/>
+        <Image x:Name="img_bebi" HorizontalAlignment="Left" Height="167" Margin="560,360,0,0" VerticalAlignment="Top" Width="204" Visibility="Hidden"/>
+        <ComboBox x:Name="cmb_proveedor" HorizontalAlignment="Left" Margin="304,276,0,0" VerticalAlignment="Top" Width="134" Height="21" GotFocus="cmb_proveedor_GotFocus" Visibility="Hidden"/>
+        <Label x:Name="lbl_habi_ing" Content="Habilitado" HorizontalAlignment="Left" Margin="224,325,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <ComboBox x:Name="txt_habili_ingre" HorizontalAlignment="Left" Margin="304,330,0,0" VerticalAlignment="Top" Width="134" Height="20" GotFocus="txt_habili_ingre_GotFocus" Visibility="Hidden">
+            <ComboBoxItem x:Name="si_habilitado1" Content="Si" HorizontalAlignment="Left" Width="130"/>
+            <ComboBoxItem x:Name="no_habilitado1" Content="No" HorizontalAlignment="Left" Width="130"/>
+        </ComboBox>
+        <Label x:Name="lbl1" Content="" HorizontalAlignment="Left" Margin="304,141,0,0" VerticalAlignment="Top" Width="205" Height="28" Visibility="Hidden"/>
+        <Label x:Name="lbl2" Content="" HorizontalAlignment="Left" Margin="304,191,0,0" VerticalAlignment="Top" Height="25" Width="205" Visibility="Hidden"/>
+        <Label x:Name="lbl3" Content="" HorizontalAlignment="Left" Margin="304,246,0,0" VerticalAlignment="Top" Height="24" Width="205" Visibility="Hidden"/>
+        <Label x:Name="lbl4" Content="" HorizontalAlignment="Left" Margin="304,297,0,0" VerticalAlignment="Top" Height="25" Width="205" Visibility="Hidden"/>
+        <Label x:Name="lbl5" Content="" HorizontalAlignment="Left" Margin="304,351,0,0" VerticalAlignment="Top" Height="24" Width="205" Visibility="Hidden"/>
+        <Label x:Name="lbl6" Content="" HorizontalAlignment="Left" Margin="304,448,0,0" VerticalAlignment="Top" Width="205" Visibility="Hidden"/>
+        <Label x:Name="lbl7" Content="" HorizontalAlignment="Left" Margin="304,501,0,0" VerticalAlignment="Top" Width="205" Visibility="Hidden"/>
+        <Label Content="Seleccione el insumo a ingresar " HorizontalAlignment="Left" Margin="0,80,0,0" VerticalAlignment="Top" FontSize="18" RenderTransformOrigin="0.625,0.588"/>
+        <Label Content="Administración" HorizontalAlignment="Left" Margin="275,-10,0,0" VerticalAlignment="Top" FontSize="36" Height="54"/>
+        <Label Content="Ingresar insumos" HorizontalAlignment="Left" Margin="304,30,0,0" VerticalAlignment="Top" FontSize="24" Height="46"/>
+        <Label x:Name="lbstock_critico" Content="Stock Crítico" HorizontalAlignment="Left" Margin="530,169,0,0" VerticalAlignment="Top" Width="85" Visibility="Hidden"/>
+        <TextBox x:Name="txt_stock_critico" HorizontalAlignment="Left" Height="23" Margin="625,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="163" Visibility="Hidden"/>
+        <Label x:Name="lb8" Content="" HorizontalAlignment="Left" Margin="625,198,0,0" VerticalAlignment="Top" Width="163" Visibility="Hidden"/>
+    </Grid>
+</Controls:MetroWindow>

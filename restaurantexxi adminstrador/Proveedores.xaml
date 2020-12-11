@@ -1,0 +1,18 @@
+﻿<Window x:Class="restaurantexxi_adminstrador.Proveedores"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:restaurantexxi_adminstrador"
+        mc:Ignorable="d"
+        Title="Proveedores" Height="450" Width="800">
+    <Grid>
+        <Label Content="Proveedores" HorizontalAlignment="Left" Margin="295,57,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <Button x:Name="btnlistar" Content="Listar" HorizontalAlignment="Left" Margin="431,257,0,0" VerticalAlignment="Top" Width="165" Height="59" Click="btnlistar_Click"/>
+        <Button x:Name="btnmodificar" Content="Modificar" HorizontalAlignment="Left" Margin="199,257,0,0" VerticalAlignment="Top" Width="165" Height="59" Click="btnmodificar_Click"/>
+        <Button x:Name="btnagregar" Content="Agregar" HorizontalAlignment="Left" Margin="199,160,0,0" VerticalAlignment="Top" Width="165" Height="59" Click="btnagregar_Click"/>
+        <Button x:Name="btneliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="431,160,0,0" VerticalAlignment="Top" Width="165" Height="59" Click="btneliminar_Click"/>
+        <Button Content="Volver" HorizontalAlignment="Left" Margin="638,350,0,0" VerticalAlignment="Top" Width="116" RenderTransformOrigin="0.507,0.1" Height="45"/>
+
+    </Grid>
+</Window>

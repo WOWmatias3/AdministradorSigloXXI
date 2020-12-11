@@ -1,0 +1,60 @@
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\bin\Debug\BLL.dll.config
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\bin\Debug\BLL.dll
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\bin\Debug\BLL.pdb
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\bin\Debug\DAL.dll
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\bin\Debug\DAL.pdb
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\bin\Debug\DAL.dll.config
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\obj\Debug\BLL.dll
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\BLL\obj\Debug\BLL.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\bin\Debug\BLL.dll.config
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\bin\Debug\BLL.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\bin\Debug\BLL.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\bin\Debug\DAL.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\bin\Debug\DAL.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\bin\Debug\DAL.dll.config
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\obj\Debug\BLL.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\BLL\obj\Debug\BLL.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\bin\Debug\BLL.dll.config
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\bin\Debug\BLL.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\bin\Debug\BLL.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\bin\Debug\DAL.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\bin\Debug\DAL.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\bin\Debug\DAL.dll.config
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\obj\Debug\BLL.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\BLL\obj\Debug\BLL.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\bin\Debug\BLL.dll.config
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\bin\Debug\BLL.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\bin\Debug\BLL.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\bin\Debug\DAL.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\bin\Debug\DAL.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\bin\Debug\DAL.dll.config
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\obj\Debug\BLL.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\BLL\obj\Debug\BLL.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\bin\Debug\BLL.dll.config
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\bin\Debug\BLL.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\bin\Debug\BLL.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\bin\Debug\DAL.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\bin\Debug\DAL.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\bin\Debug\DAL.dll.config
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\obj\Debug\BLL.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\BLL\obj\Debug\BLL.pdb

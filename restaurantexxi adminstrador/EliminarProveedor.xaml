@@ -1,0 +1,23 @@
+﻿<Controls:MetroWindow x:Name="win_eliminar_prov" x:Class="restaurantexxi_adminstrador.EliminarProveedor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:restaurantexxi_adminstrador"
+        mc:Ignorable="d"
+        Title="EliminarProveedor" Height="664" Width="800" WindowStartupLocation="CenterOwner" Loaded="Win_eliminar_prov_Loaded" ResizeMode="NoResize" WindowStyle="None">
+    <Grid>
+        <Label x:Name="lb_nombreusuario" Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="230" Height="27"/>
+
+        <Label Content="Administración" HorizontalAlignment="Left" Margin="272,26,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <Label Content="Eliminar Proveedor" HorizontalAlignment="Left" Margin="290,89,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <DataGrid x:Name="dtg_Allprov" IsReadOnly="True" HorizontalAlignment="Left" Height="275" Margin="10,285,0,0" VerticalAlignment="Top" Width="780" SelectionChanged="Dtg_Allprov_SelectionChanged"/>
+        <TextBox x:Name="txt_id"  HorizontalAlignment="Left" Height="23" Margin="228,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="285" GotFocus="Txt_id_GotFocus" PreviewTextInput="Txt_id_PreviewTextInput"/>
+        <Label Content="Ingresar ID del Proveedor" HorizontalAlignment="Left" Margin="10,189,0,0" VerticalAlignment="Top" FontSize="16" Width="193"/>
+        <Button x:Name="btn_Eliminar" Click="Btn_Eliminar_Click" Content="Eliminar" HorizontalAlignment="Left" Margin="538,183,0,0" VerticalAlignment="Top" Width="125" Height="36" FontSize="16"/>
+        <Button x:Name="atras" Content="Volver" HorizontalAlignment="Left" Margin="697,565,0,0" VerticalAlignment="Top" Width="93" Height="37" FontSize="16" RenderTransformOrigin="0.462,-0.459" Click="Atras_Click"/>
+        <Label x:Name="lb1" Content="" HorizontalAlignment="Left" Margin="228,218,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.263,0.192" Width="387"/>
+
+    </Grid>
+</Controls:MetroWindow>

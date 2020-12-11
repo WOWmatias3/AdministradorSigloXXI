@@ -1,0 +1,664 @@
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.exe.config
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.exe
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.pdb
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.dll
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.dll
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.pdb
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.dll.config
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.pdb
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.dll.config
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Administracion.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregarinsumo.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarReceta.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarUsuario.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarInsumo.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarReceta.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarUsuario.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Insumos.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarInsumo.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarReceta.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarUsuario.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\MainWindow.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarInsumo.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarReceta.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuario.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Proveedores.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Recetas.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Usuarios.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\App.g.cs
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador_MarkupCompile.cache
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador_MarkupCompile.lref
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Administracion.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregarinsumo.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarReceta.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarUsuario.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarInsumo.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarReceta.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarUsuario.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Insumos.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarInsumo.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarReceta.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarUsuario.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\MainWindow.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarInsumo.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarReceta.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuario.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Proveedores.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Recetas.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Usuarios.baml
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.g.resources
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi_adminstrador.Properties.Resources.resources
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.CopyComplete
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.exe
+C:\Users\nicol\source\repos\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.exe.config
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.exe
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.dll.config
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.dll.config
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Administracion.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregarinsumo.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarProveedor.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarReceta.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarUsuario.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarInsumo.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarProveedor.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarReceta.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarUsuario.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Insumos.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarInsumo.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarProveedor.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarReceta.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarUsuario.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarInsumo.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarProveedor.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarReceta.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuario.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Proveedores.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Recetas.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Usuarios.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador_MarkupCompile.cache
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador_MarkupCompile.lref
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Administracion.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregarinsumo.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarProveedor.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarReceta.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarUsuario.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarInsumo.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarProveedor.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarReceta.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarUsuario.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Insumos.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarInsumo.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarProveedor.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarReceta.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarUsuario.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarInsumo.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarProveedor.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarReceta.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuario.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Proveedores.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Recetas.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Usuarios.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.g.resources
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi_adminstrador.Properties.Resources.resources
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.CopyComplete
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.exe
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AñadirUsuario.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AñadirUsuario.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuariopag.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuariopag.baml
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Generic.g.cs
+C:\Users\usuario\Desktop\Portafolio\Software\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Generic.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csprojAssemblyReference.cache
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Administracion.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregarinsumo.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarProveedor.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarUsuario.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AñadirUsuario.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarInsumo.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarProveedor.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarReceta.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarUsuario.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Generic.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Insumos.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarInsumo.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarProveedor.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarReceta.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarUsuario.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarInsumo.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarProveedor.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarReceta.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuario.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuariopag.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Proveedores.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Recetas.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Usuarios.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\App.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador_MarkupCompile.cache
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador_MarkupCompile.lref
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregar_Recetas.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.exe.config
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.exe
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.dll
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.dll.config
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.pdb
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.dll.config
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarReceta.g.cs
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\App.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Administracion.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregarinsumo.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarProveedor.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarReceta.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarUsuario.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregar_Recetas.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AñadirUsuario.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarInsumo.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarProveedor.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarReceta.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarUsuario.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Generic.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Insumos.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarInsumo.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarProveedor.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarReceta.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarUsuario.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\MainWindow.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarInsumo.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarProveedor.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarReceta.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuario.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuariopag.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Proveedores.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Recetas.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Usuarios.baml
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.g.resources
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi_adminstrador.Properties.Resources.resources
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.GenerateResource.cache
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.CoreCompileInputs.cache
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.CopyComplete
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.exe
+D:\VisualStudio\admin\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.exe.config
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.exe
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.dll
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.dll.config
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.pdb
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.dll.config
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csprojAssemblyReference.cache
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Administracion.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregarinsumo.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarProveedor.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarReceta.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarUsuario.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregar_Recetas.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AñadirUsuario.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarInsumo.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarProveedor.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarReceta.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarUsuario.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Generic.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Insumos.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarInsumo.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarProveedor.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarReceta.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarUsuario.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\MainWindow.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarInsumo.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarProveedor.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarReceta.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuario.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuariopag.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Proveedores.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Recetas.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Usuarios.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\App.g.cs
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador_MarkupCompile.cache
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador_MarkupCompile.lref
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\App.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Administracion.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregarinsumo.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarProveedor.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarReceta.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarUsuario.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregar_Recetas.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AñadirUsuario.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarInsumo.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarProveedor.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarReceta.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarUsuario.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Generic.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Insumos.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarInsumo.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarProveedor.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarReceta.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarUsuario.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\MainWindow.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarInsumo.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarProveedor.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarReceta.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuario.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuariopag.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Proveedores.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Recetas.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Usuarios.baml
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.g.resources
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi_adminstrador.Properties.Resources.resources
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.GenerateResource.cache
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.CoreCompileInputs.cache
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.CopyComplete
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.exe
+C:\Users\meduc\Desktop\fotos LOLA\restaurantexxi adminstrador (2)\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.exe.config
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.exe
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\restaurantexxi adminstrador.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\BLL.dll.config
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\ControlzEx.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\DAL.dll.config
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Administracion.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregarinsumo.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarProveedor.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarReceta.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarUsuario.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregar_Recetas.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AñadirUsuario.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarInsumo.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarProveedor.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarReceta.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarUsuario.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Generic.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Insumos.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarInsumo.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarProveedor.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarReceta.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarUsuario.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarInsumo.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarProveedor.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarReceta.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuario.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuariopag.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Proveedores.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Recetas.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Usuarios.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador_MarkupCompile.cache
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador_MarkupCompile.lref
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\App.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Administracion.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregarinsumo.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarProveedor.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarReceta.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarUsuario.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Agregar_Recetas.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AñadirUsuario.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarInsumo.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarProveedor.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarReceta.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarUsuario.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Generic.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Insumos.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarInsumo.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarProveedor.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarReceta.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarUsuario.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarInsumo.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarProveedor.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarReceta.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuario.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarUsuariopag.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Proveedores.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Recetas.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\Usuarios.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.g.resources
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi_adminstrador.Properties.Resources.resources
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.csproj.CopyComplete
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.exe
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\restaurantexxi adminstrador.pdb
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarMesa.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ConfirmarPedido.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarMesa.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarMesas.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarMesa.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\AgregarMesa.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ConfirmarPedido.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\EliminarMesa.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarMesas.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ModificarMesa.baml
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarPedidos.g.cs
+C:\Users\usuario\Desktop\restaurantexxi adminstrador\restaurantexxi adminstrador\obj\Debug\ListarPedidos.baml
